@@ -1,0 +1,11 @@
+/home/rodion/source/pz1/Dll/bin/Debug/net8.0/Dll.deps.json
+/home/rodion/source/pz1/Dll/bin/Debug/net8.0/Dll.dll
+/home/rodion/source/pz1/Dll/bin/Debug/net8.0/Dll.pdb
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/Dll.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/Dll.AssemblyInfoInputs.cache
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/Dll.AssemblyInfo.cs
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/Dll.csproj.CoreCompileInputs.cache
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/Dll.dll
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/refint/Dll.dll
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/Dll.pdb
+/home/rodion/source/pz1/Dll/obj/Debug/net8.0/ref/Dll.dll

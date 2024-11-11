@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz1", "pz1\pz1.csproj", "{AC532284-D0D8-46AD-9BFE-87F5C8F115C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll", "Dll\Dll.csproj", "{3799E4EB-B41F-497A-8C05-8263CFAFC392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC532284-D0D8-46AD-9BFE-87F5C8F115C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC532284-D0D8-46AD-9BFE-87F5C8F115C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC532284-D0D8-46AD-9BFE-87F5C8F115C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC532284-D0D8-46AD-9BFE-87F5C8F115C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3799E4EB-B41F-497A-8C05-8263CFAFC392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3799E4EB-B41F-497A-8C05-8263CFAFC392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3799E4EB-B41F-497A-8C05-8263CFAFC392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3799E4EB-B41F-497A-8C05-8263CFAFC392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

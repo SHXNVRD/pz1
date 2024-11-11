@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pz1/1.0.0": {
+        "dependencies": {
+          "Dll": "1.0.0"
+        },
+        "runtime": {
+          "pz1.dll": {}
+        }
+      },
+      "Dll/1.0.0": {
+        "runtime": {
+          "Dll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pz1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
